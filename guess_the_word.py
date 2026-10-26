@@ -31,6 +31,7 @@ def play_game():
 
     print("The Greatest Guessing Game Ever!")
     print("Guess one letter at a time.")
+    print("Hint: All words are computer-related!")
     print(f"You have {attempts} incorrect attempts allowed.")
 
 
